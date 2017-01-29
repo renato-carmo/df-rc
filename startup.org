@@ -1,0 +1,123 @@
+# -*- coding: utf-8 after-save-hook: (lambda nil (org-html-export-to-html)) org-refile-targets: (("startup.org" :maxlevel . 1024)) -*-
+#+INFOJS_OPT: path:~/lib/org-info.js view:overview toc:nil ltoc:nil
+
+
+* AI & ML
+
+** http://blog.algorithmia.com/2016/04/accelerating-artificial-intelligence-development/
+
+** http://www.nytimes.stfi.re/2016/04/07/science/artificial-intelligence-when-is-the-singularity.html?_r=2&sf=dnvaze#aa
+
+** http://www.shivonzilis.stfi.re/machineintelligence?sf=jngojv#aa
+
+** [[https://www.coursera.org/learn/machine-learning][Machine Learning course on Coursera]]
+
+** http://playground.tensorflow.org/
+
+** http://a16z.com/2016/06/10/ai-deep-learning-machines/
+
+** http://deepjazz.io/
+
+** http://deeplearning.net/tutorial/lstm.html
+
+** [[https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-3-0?utm_content=buffer964e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer][The current state of machine intelligence 3.0 - O'Reilly Media]]
+
+
+
+* misc
+
+** http://itera.com.br/Analises/
+
+** http://www.semantix.com.br/
+
+
+* blockchain
+
+** https://youtu.be/90rmBzT8-J0
+
+** http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html
+
+** https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf
+
+** https://bitcoinmagazine.com/articles/what-are-the-use-cases-for-private-blockchains-the-experts-weigh-in-1466440884
+
+** http://www.multichain.com/
+
+** https://chain.com/press-releases/visa-introduces-international-b2b-payment-solution-built-on-chains-blockchain-technology/
+
+** https://chain.com/docs/core/get-started/five-minute-guide
+
+** http://bitfury.com/
+
+** http://www.cobaltdl.com/
+
+** https://www.bitcoin.com/
+
+** http://bitcoincharts.com/bitcoin/
+
+** https://angel.co/blockchains
+
+** https://medium.com/the-intrepid-review/the-top-10-blockchain-startups-to-watch-in-2016-the-leaders-who-are-changing-the-game-6195606b0d70#.r30ufkjm9
+
+** http://venturebeat.com/2017/01/28/cisco-bosch-and-foxconn-are-building-blockchain-tech-for-the-internet-of-things/
+
+
+
+* voronoi
+
+Vi todos os links, procurei por outros, tem algumas coisas no Brasil também, Unicamp, UFSC, mesmo escopo.
+
+Pelo menos para mim ficou muito claro do que se trata. :)
+
+Não achei nada com cara comercial, o que é ótimo.
+
+Começo a imaginar que só entregar o mapeamento em várias situações de jogo é bom mas insuficiente, talvez como parte do serviço precisaremos entregar o '"book" também uma análise, talvez um diagnóstico, joves e mais analíticos treinadores ou estudiosos de futebol talvez pudessem fazer isso.
+
+A outra parte é um bom esquema de fotografar as posições nos momentos, mas acho que uma boa câmara bem instalada resolve isso (pelo menos para o campo de treino ou os jogos mandados em casa).
+
+Acho, não tenho certeza, que os jogadores não poderiam (limitação Fifa) jogar com algum tipo de sensor em seus corpos.
+
+Trinta times no mundo pagam 20 mil dólares por um serviço bem empacotado? Sim, acho que sim.
+
+Parece que vale dar um passo em frente.
+
+** https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwiEzN2SoLDRAhWCjJAKHRVWCgcQFggrMAI&url=http%3A%2F%2Frevistas.um.es%2Fcpd%2Farticle%2FviewFile%2F223151%2F173381&usg=AFQjCNEZ08abFejuwcpuYAROIC1iCe8FaQ&sig2=nIQccuJdX_VtlqeRgcWwMg
+
+** https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&cad=rja&uact=8&ved=0ahUKEwiEzN2SoLDRAhWCjJAKHRVWCgcQFghLMAo&url=http%3A%2F%2Fwww.lana.lt%2Fjournal%2F14%2FKim.pdf&usg=AFQjCNEGHs4711qjOqrQnti_dk0Am490oQ&sig2=cHOD6dXG6J46noQ17Rn6sA
+
+** https://books.google.com.br/books?id=vxB6DQAAQBAJ&pg=PT137&lpg=PT137&dq=voronoi+diagram+sports&source=bl&ots=HxXdQg1-Co&sig=GOqLrMLAG3C6f5B9FivHd7YlAMA&hl=en&sa=X&ved=0ahUKEwiEzN2SoLDRAhWCjJAKHRVWCgcQ6AEIVDAL
+
+** https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&cad=rja&uact=8&ved=0ahUKEwiEzN2SoLDRAhWCjJAKHRVWCgcQFghZMAw&url=http%3A%2F%2Frepositorio.ipl.pt%2Fbitstream%2F10400.21%2F5070%2F4%2FSpatial%2520dynamics%2520of%2520team%2520sports%2520exposed%2520by%2520Voronoi%2520diagrams.rep.pdf&usg=AFQjCNHZ8q-ILi_g6WX1rvDvcmdWbeuXjQ&sig2=UoaqVcVYijYX1-arKw2yKg
+
+** https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&cad=rja&uact=8&ved=0ahUKEwiEzN2SoLDRAhWCjJAKHRVWCgcQFghvMBA&url=https%3A%2F%2Fwww.technologyreview.com%2Fs%2F600957%2Fbig-data-analysis-is-changing-the-nature-of-sports-science%2F&usg=AFQjCNFjGa_qE3Avo5hegVv0oTQ8-k0ZcA&sig2=WJfVIjkUTzflcKyHrFe9yw
+
+** https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&cad=rja&uact=8&ved=0ahUKEwiEzN2SoLDRAhWCjJAKHRVWCgcQFgh1MBE&url=http%3A%2F%2Fwww.redalyc.org%2Farticulo.oa%3Fid%3D227038699012&usg=AFQjCNFAM5zld6piHSUF_ZjuGBvzuN8s1A&sig2=H0wuYBxi3s2uKtO7typFqg
+
+
+
+
+** http://www.sciencedirect.com/science/article/pii/S0167945712000668
+   
+   Abstract
+   
+   Team sports represent complex systems: players interact continuously
+   during a game, and exhibit intricate patterns of interaction, which can
+   be identified and investigated at both individual and collective
+   levels. We used Voronoi diagrams to identify and investigate the spatial
+   dynamics of players’ behavior in Futsal. Using this tool, we examined 19
+   plays of a sub-phase of a Futsal game played in a reduced area (20 m2)
+   from which we extracted the trajectories of all players. Results
+   obtained from a comparative analysis of player’s Voronoi area (dominant
+   region) and nearest teammate distance revealed different patterns of
+   interaction between attackers and defenders, both at the level of
+   individual players and teams. We found that, compared to defenders,
+   larger dominant regions were associated with attackers. Furthermore,
+   these regions were more variable in size among players from the same
+   team but, at the player level, the attackers’ dominant regions were more
+   regular than those associated with each of the defenders. These findings
+   support a formal description of the dynamic spatial interaction of the
+   players, at least during the particular sub-phase of Futsal
+   investigated. The adopted approach may be extended to other team
+   behaviors where the actions taken at any instant in time by each of the
+   involved agents are associated with the space they occupy at that
+   particular time.

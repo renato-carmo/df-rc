@@ -121,3 +121,8 @@ Parece que vale dar um passo em frente.
    behaviors where the actions taken at any instant in time by each of the
    involved agents are associated with the space they occupy at that
    particular time.
+
+* incoming
+** https://singularityhub.com/2017/01/31/the-struggle-to-make-ai-less-biased-than-its-creators/?utm_source=Singularity+Hub+Newsletter&utm_campaign=a3b8608ad2-Hub_Weekly_Newsletter&utm_medium=email&utm_term=0_f0cf60cdae-a3b8608ad2-58117473
+** http://diversity.ai/
+

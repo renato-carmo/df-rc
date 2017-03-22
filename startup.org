@@ -62,6 +62,14 @@
 ** http://venturebeat.com/2017/01/28/cisco-bosch-and-foxconn-are-building-blockchain-tech-for-the-internet-of-things/
 
 
+** https://techcrunch.com/2017/03/19/ibm-unveils-blockchain-
+as-a-service-based-on-open-source-hyperledger-fabric-technology/
+
+IBM <https://www.ibm.com/> unveiled its “Blockchain as a Service” today,
+which is based on the open source Hyperledger Fabric
+<https://www.hyperledger.org/>, version 1.0 from The Linux Foundation.
+
+https://www.hyperledger.org/
 
 * voronoi
 

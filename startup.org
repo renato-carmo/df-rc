@@ -32,7 +32,7 @@
 
 
 * blockchain
-
+** [[http://avc.com/2017/04/video-of-the-week-the-mit-bitcoin-experiment/?utm_source%3Dfeedburner&utm_medium%3Dfeed&utm_campaign%3DFeed%253A%2BAVc%2B%2528A%2BVC%2529][The MIT Bitcoin Experiment]]
 ** https://youtu.be/90rmBzT8-J0
 
 ** http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html
@@ -61,7 +61,6 @@
 
 ** http://venturebeat.com/2017/01/28/cisco-bosch-and-foxconn-are-building-blockchain-tech-for-the-internet-of-things/
 
-
 ** https://techcrunch.com/2017/03/19/ibm-unveils-blockchain-
 as-a-service-based-on-open-source-hyperledger-fabric-technology/
 
@@ -70,6 +69,7 @@ which is based on the open source Hyperledger Fabric
 <https://www.hyperledger.org/>, version 1.0 from The Linux Foundation.
 
 https://www.hyperledger.org/
+
 
 * voronoi
 

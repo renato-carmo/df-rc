@@ -32,6 +32,14 @@
 
 
 * blockchain
+
+** expolondrina
+   
+   uma das startups que se deram bem (apoio IBM e váo receber aporte da
+   SPVentures) usou o blockchain da IBM como livro registro para contrato de
+   transações de compra e venda de insumos x grãos http://bart.digital/
+
+
 ** [[http://avc.com/2017/04/video-of-the-week-the-mit-bitcoin-experiment/?utm_source%3Dfeedburner&utm_medium%3Dfeed&utm_campaign%3DFeed%253A%2BAVc%2B%2528A%2BVC%2529][The MIT Bitcoin Experiment]]
 ** https://youtu.be/90rmBzT8-J0
 
@@ -69,6 +77,7 @@ which is based on the open source Hyperledger Fabric
 <https://www.hyperledger.org/>, version 1.0 from The Linux Foundation.
 
 https://www.hyperledger.org/
+
 
 
 * voronoi

@@ -140,6 +140,62 @@ Parece que vale dar um passo em frente.
    particular time.
 
 * incoming
+** Um compilado de links, desculpe a demora.
+
+
+CURSOS
+
+Programa de MSc online em Bitcoin
+http://digitalcurrency.unic.ac.cy/free-introductory-mooc/
+Obs. Primeira disciplina é gratuita, parece valer a pena, mas não tive
+tempo de fazê-lo.
+
+Curso com a mesma pegada do MSc, mas resumido numa disciplina
+https://pt.coursera.org/learn/cryptocurrency
+
+Upcoming...
+http://blockchainu.co/
+
+
+ETHEREUM (empresa)
+
+https://pt.wikipedia.org/wiki/Ethereum
+https://www.ethereum.org/
+https://www.crunchbase.com/organization/ethereum#/entity
+
+
+COMPLIANCE
+
+Será que esses caras são relevantes?
+https://www.smartchains.com.br/blank-2
+
+Pra estruturar uma empresa mirando o mercado Bitcoin é bem importante estar
+com o compliance em dia. Esses caras prestam consultoria se a empresa vai
+lidar com Bitcoin.
+https://www.bitaml.com/
+
+
+NOTÍCIAS
+
+Não sei qual é a maior/melhor referência, eis algumas que parecem boas.
+
+https://blogs.wsj.com/riskandcompliance/tag/bitcoin/
+
+http://www.the-blockchain.com/
+
+http://www.coindesk.com/
+
+-
+
+Além disso, tenho um ex-colega que abriu uma empresa no ano retrasado em
+smart contracts, sem usar blockchain, no ramo jurídico (mercado grande e
+carente, Brasil já tem quase 1m advogados). Apesar de ele ter saído da
+empresa, parece estar dando certo. Posso colocar-lhes em contato.
+
+Conte comigo pra qualquer coisa.
+
+
+Aquele abraço!
 ** psc,
 
 ---------- Forwarded message ----------

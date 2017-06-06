@@ -230,3 +230,42 @@ Denilson
 ** https://singularityhub.com/2017/01/31/the-struggle-to-make-ai-less-biased-than-its-creators/?utm_source=Singularity+Hub+Newsletter&utm_campaign=a3b8608ad2-Hub_Weekly_Newsletter&utm_medium=email&utm_term=0_f0cf60cdae-a3b8608ad2-58117473
 ** http://diversity.ai/
 
+** blockchain (deni)
+
+*** explicações
+
+**** [[http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html][The Blockchain Explained to Web Developers, Part 1: The Theory]]
+
+**** [[https://bitcoinmagazine.com/articles/what-are-the-use-cases-for-private-blockchains-the-experts-weigh-in-1466440884][What Are the Use Cases for Private Blockchains? The Experts Weigh In]]
+
+
+*** software
+
+**** [[http://www.multichain.com/][Multichain: open platform for blockchain applications]]
+
+**** [[https://chain.com/docs/core/get-started/five-minute-guide][Chain Core: 5-Minute Guide]]
+
+
+*** notícias
+
+**** [[https://chain.com/press-releases/visa-introduces-international-b2b-payment-solution-built-on-chains-blockchain-technology/][Visa Introduces International B2B Payment Solution Built on Chain’s Blockchain Technology]]
+
+
+*** empresas
+
+**** [[http://bitfury.com/][The Bitfury Group: full service Blockchain technology company]]
+
+**** [[http://www.cobaltdl.com/][Cobalt: reengineering financial markets]]
+
+**** [[https://www.bitcoin.com/][bitcoin]]
+
+***** [[http://bitcoincharts.com/bitcoin/][Bitcoin Network]]
+
+**** startups
+
+***** [[https://angel.co/blockchains][Blockchains Startups]]
+
+***** [[https://medium.com/the-intrepid-review/the-top-10-blockchain-startups-to-watch-in-2016-the-leaders-who-are-changing-the-game-6195606b0d70#.r30ufkjm9][The Top 10 Blockchain Startups to Watch in 2016]]
+
+
+

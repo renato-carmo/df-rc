@@ -33,6 +33,7 @@
 
 * blockchain
 
+** https://windowsontheory.org/2017/06/15/bitcoin-and-theoretical-computer-science-guest-post-by-eli-ben-sasson/
 ** expolondrina
    
    uma das startups que se deram bem (apoio IBM e váo receber aporte da

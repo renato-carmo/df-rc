@@ -141,6 +141,63 @@ Parece que vale dar um passo em frente.
    particular time.
 
 * incoming
+** From: Denilson Farias <denilson.farias@gmail.com>
+Subject: Re: Achei interessante
+To: Renato Carmo <renato.carmo.rc@gmail.com>
+Date: Tue, 4 Jul 2017 11:28:29 -0300 (1 day, 23 hours, 54 minutes ago)
+
+sim, bem legal,
+
+mas em geral um aspecto pouco é abordado no tema, o
+custo computacional de gerar blocos válidos novos aceitos pela rede,
+
+do que entendi há um enorme desperdício na geração de blocos que depois não
+são aceitos (maioria),
+
+e é ai que acredito que tem um espaço para duas pessoas geniais :) (ou pelo
+menos uma) fuçarem uma oportunidade única :)
+
+não consigo enxergar vários dos exemplos citados (música, arquivos) sendo
+viáveis com uma plataforma que demora e custa tanto para gerar um bloco,
+
+https://www.quora.com/How-much-CPU-time-is-needed-to-mine-1-bitcoin
+
+https://blockchain.info/charts/difficulty?address=&daysAverageString=1&scale=0&showDataPoints=false&show_header=true&timespan=1year
+
+
+If you look at how much processing power is competing for mining bitcoins,
+it currently stands at 250 million gigahashes per second.
+
+A typical CPU can perform 5 million hashes per second, so the overall
+bitcoin hash rate is equivalent to 50 billion CPUs.
+
+Also, the hash rate is growing exponentially (see Bitcoin Difficulty
+<https://blockchain.info/charts/difficulty?address=&daysAverageString=1&scale=0&showDataPoints=false&show_header=true&timespan=1year>
+).
+
+On the other hand, most of this hashing is managed by a small number of
+mining pools (see Hashrate Distribution <https://blockchain.info/pools>).
+It would only require collusion of the top 2-3 pools to mount a 51% attack.
+
+On Tue, Jul 4, 2017 at 8:47 AM, Renato Carmo <renato.carmo.rc@gmail.com>
+wrote:
+
+> https://www.linkedin.com/pulse/blockchain-explanation-
+> your-mum-could-understand-jamie-skella
+>
+> --
+> Renato
+> renato.carmo.rc@gmail.com
+> http://www.inf.ufpr.br/renato
+>
+
+
+
+-- 
+Abraços,
+
+Denilson
+** https://www.linkedin.com/pulse/blockchain-explanation-your-mum-could-understand-jamie-skella
 ** http://www.visualcapitalist.com/chart-coin-universe-keeps-expanding/
 
 -- 

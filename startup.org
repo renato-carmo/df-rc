@@ -141,6 +141,12 @@ Parece que vale dar um passo em frente.
    particular time.
 
 * incoming
+** Linux Foundation-led Hyperledger launches Fabric: 
+
+the group's first
+production-ready ledger code; enables companies in numerous industries to build
+blockchain-based business apps; The Hyperledger Project is an open-source
+collaborative group with more than 120 members
 ** From: Denilson Farias <denilson.farias@gmail.com>
 Subject: Re: Achei interessante
 To: Renato Carmo <renato.carmo.rc@gmail.com>

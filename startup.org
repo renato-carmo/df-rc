@@ -231,6 +231,20 @@
                Descadastre-se caso não queira receber mais e-mails
 
 
+** dicas do Cássio
+
+SIMULADOR
+http://folhainvest.folha.uol.com.br/
+
+Este é um famoso (talvez seja o maior no Brasil). Ele te dá uma carteira de R$
+~200k pré-montada. Você pode comprar uma ação, vendê-la, deixar o capital em
+caixa (não rende nada) ou na renda fixa.
+
+Acho que vale a gente começar por aqui.
+
+https://en.wikipedia.org/wiki/Stock_market
+
+
 * AI & ML
 
 ** http://blog.algorithmia.com/2016/04/accelerating-artificial-intelligence-development/

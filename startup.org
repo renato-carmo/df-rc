@@ -245,6 +245,11 @@ Acho que vale a gente começar por aqui.
 https://en.wikipedia.org/wiki/Stock_market
 
 
+** livros
+
+*** [[http://www.elder.com/product/detail/BK026/][The New Trading for a Living]] ([[https://en.wikipedia.org/wiki/Alexander_Elder][Alexander Elder]])
+    - rc está lendo
+
 * AI & ML
 
 ** http://blog.algorithmia.com/2016/04/accelerating-artificial-intelligence-development/
